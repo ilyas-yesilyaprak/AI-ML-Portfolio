@@ -1,4 +1,4 @@
-# Gender Classification with VGG-16
+# Gender Classification using Transfer Learning with VGG-16
 
 This project performs binary gender classification using the CelebA dataset and transfer learning with a pretrained VGG-16 model.
 
